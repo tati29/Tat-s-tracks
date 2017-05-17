@@ -135,7 +135,7 @@ height: auto;
 padding-left: 20%;
  }
 
- 
+
 
 #TheWeekend {
   width: 30%;
@@ -166,6 +166,24 @@ height: 300px;
   font-size: 15px;
   right: 20px;
   top: 0px;
+}
+
+#vicky {
+  position: absolute;
+  font-size: 15px;
+  right: 20px;
+  top: 900px;
+}
+
+#hello {
+  position: absolute;
+  font-size: 15px;
+  right: 20px;
+  top: 270px;
+}
+
+a {
+  color: hotpink;
 }
 
 h7{
